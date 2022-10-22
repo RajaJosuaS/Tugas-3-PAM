@@ -23,5 +23,5 @@ expo build:android
     Tampilan awal, pencarian jadwal pesawat , <br>
 
 2.  Tampilan Hasil Pencarian Akan terlihat seperti pada gambar berikut ini :
-    ![](Screenshots/Hasil.png) <br>
+    ![](Screenshot/Hasil.png) <br>
     Aplikasi akan menampilkan halaman data penerbangan
